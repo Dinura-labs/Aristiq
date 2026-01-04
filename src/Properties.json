@@ -12,7 +12,14 @@
         "longDescription": "An attractive and modern three-bedroom semi-detached family home situated in a popular residential area, just 0.5 miles from Narahenpita Railway Station. The property has been recently renovated to a high standard and offers spacious and flexible living accommodation. The ground floor comprises a welcoming entrance hall, a generous living room with a feature fireplace, and a stunning open-plan kitchen/dining room with integrated appliances and bi-fold doors leading to the rear garden. Upstairs, there are three well-proportioned bedrooms and a contemporary family bathroom.",
         "location": "Colombo 05",
         "picture": "../PropertyImages/prop1.webp",
-
+        "images": [
+            "../PropertyImages/prop1.webp",
+            "../PropertyImages/prop2.webp",
+            "../PropertyImages/prop3.webp",
+            "../PropertyImages/prop4.webp",
+            "../PropertyImages/prop5.webp",
+            "../PropertyImages/prop6.webp"
+        ],
         "url": "prop1",
         "added": { "month": "October", "day": 12, "year": 2025 }
       },
@@ -28,7 +35,14 @@
         "longDescription": "This beautifully presented two double bedroom, two bathroom garden apartment is located in a highly sought-after development. The property is offered in excellent decorative order and boasts a spacious open-plan living area with a modern fitted kitchen, two generous double bedrooms (one with an en-suite shower room), and a stylish main bathroom. The apartment also benefits from a private patio area and access to well-maintained communal gardens.",
         "location": "Colombo 07",
         "picture": "../PropertyImages/prop2.webp",
-        
+        "images": [
+            "../PropertyImages/prop7.webp",
+            "../PropertyImages/prop8.webp",
+            "../PropertyImages/prop9.webp",
+            "../PropertyImages/prop10.webp",
+            "../PropertyImages/prop11.webp",
+            "../PropertyImages/prop12.webp"
+        ],
         "url": "prop2",
         "added": { "month": "September", "day": 14, "year": 2025 }
       },
@@ -44,7 +58,14 @@
         "longDescription": "A rare opportunity to acquire a spacious commercial property in a prime location in the heart of Colombo. The property offers versatile space suitable for a variety of uses, including retail, office, or showroom. The unit is predominantly open-plan and benefits from excellent natural light, high ceilings, and a prominent shop front. Additional features include a small kitchenette and two WCs.",
         "location": "Colombo 03",
         "picture": "../PropertyImages/prop3.webp",
-        
+        "images": [
+            "../PropertyImages/prop13.webp",
+            "../PropertyImages/prop14.webp",
+            "../PropertyImages/prop15.webp",
+            "../PropertyImages/prop16.webp",
+            "../PropertyImages/prop17.webp",
+            "../PropertyImages/prop18.webp"
+        ],
         "url": "prop3",
         "added": { "month": "August", "day": 25, "year": 2025 }
       },
@@ -60,7 +81,14 @@
         "longDescription": "This is a large warehouse space available for rent, located in a prime location in Colombo with easy access to major roads. The warehouse is suitable for storage and logistics operations. It features high ceilings, a large loading bay, and office space.",
         "location": "Colombo 10",
         "picture": "../PropertyImages/prop4.webp",
-        
+        "images": [
+            "../PropertyImages/prop1.webp",
+            "../PropertyImages/prop2.webp",
+            "../PropertyImages/prop3.webp",
+            "../PropertyImages/prop4.webp",
+            "../PropertyImages/prop5.webp",
+            "../PropertyImages/prop6.webp"
+        ],
         "url": "prop4",
         "added": { "month": "July", "day": 30, "year": 2025 }
       },
@@ -76,7 +104,14 @@
         "longDescription": "A beautiful four-bedroom detached house in a peaceful area with scenic views. The property is set in a large garden and has a private swimming pool. The house is well-maintained and has a modern kitchen and bathrooms.",
         "location": "Kandy",
         "picture": "../PropertyImages/prop5.webp",
-        
+        "images": [
+            "../PropertyImages/prop7.webp",
+            "../PropertyImages/prop8.webp",
+            "../PropertyImages/prop9.webp",
+            "../PropertyImages/prop10.webp",
+            "../PropertyImages/prop11.webp",
+            "../PropertyImages/prop12.webp"
+        ],
         "url": "prop5",
         "added": { "month": "May", "day": 15, "year": 2025 }
       },
@@ -92,7 +127,14 @@
         "longDescription": "A modern two-bedroom apartment with all amenities located in Matara. The apartment is on the top floor and has a balcony with sea views. It is fully furnished and has a well-equipped kitchen.",
         "location": "Matara",
         "picture": "../PropertyImages/prop6.webp",
-        
+        "images": [
+            "../PropertyImages/prop13.webp",
+            "../PropertyImages/prop14.webp",
+            "../PropertyImages/prop15.webp",
+            "../PropertyImages/prop16.webp",
+            "../PropertyImages/prop17.webp",
+            "../PropertyImages/prop18.webp"
+        ],
         "url": "prop6",
         "added": { "month": "June", "day": 10, "year": 2025 }
       },
@@ -108,7 +150,14 @@
         "longDescription": "A spacious five-bedroom house with a private pool and large garden. The house is located in a quiet residential area and is perfect for a large family. It has a large living room, a dining room, and a modern kitchen.",
         "location": "Matara",
         "picture": "../PropertyImages/prop7.webp",
-        
+        "images": [
+            "../PropertyImages/prop1.webp",
+            "../PropertyImages/prop2.webp",
+            "../PropertyImages/prop3.webp",
+            "../PropertyImages/prop4.webp",
+            "../PropertyImages/prop5.webp",
+            "../PropertyImages/prop6.webp"
+        ],
         "url": "prop7",
         "added": { "month": "April", "day": 20, "year": 2025 }
       },
@@ -124,7 +173,14 @@
         "longDescription": "A beautiful three-bedroom apartment with views of the park and modern amenities. The apartment is located in a modern building with a gym and a swimming pool. It is fully furnished and has a well-equipped kitchen.",
         "location": "Colombo",
         "picture": "../PropertyImages/prop8.webp",
-        
+        "images": [
+            "../PropertyImages/prop7.webp",
+            "../PropertyImages/prop8.webp",
+            "../PropertyImages/prop9.webp",
+            "../PropertyImages/prop10.webp",
+            "../PropertyImages/prop11.webp",
+            "../PropertyImages/prop12.webp"
+        ],
         "url": "prop8",
         "added": { "month": "March", "day": 25, "year": 2025 }
       },
@@ -140,7 +196,14 @@
         "longDescription": "A prime commercial space with great potential for retail or office space. The space is located in a busy commercial area and has a large shop front. It is suitable for a variety of businesses.",
         "location": "Colombo 02",
         "picture": "../PropertyImages/prop9.webp",
-        
+        "images": [
+            "../PropertyImages/prop13.webp",
+            "../PropertyImages/prop14.webp",
+            "../PropertyImages/prop15.webp",
+            "../PropertyImages/prop16.webp",
+            "../PropertyImages/prop17.webp",
+            "../PropertyImages/prop18.webp"
+        ],
         "url": "prop9",
         "added": { "month": "February", "day": 14, "year": 2025 }
       },
@@ -156,7 +219,14 @@
         "longDescription": "A charming luxury family home located in a quiet neighborhood. The house has a large garden and a swimming pool. It is well-maintained and has a modern kitchen and bathrooms.",
         "location": "Kandy",
         "picture": "../PropertyImages/prop10.webp",
-        
+        "images": [
+            "../PropertyImages/prop1.webp",
+            "../PropertyImages/prop2.webp",
+            "../PropertyImages/prop3.webp",
+            "../PropertyImages/prop4.webp",
+            "../PropertyImages/prop5.webp",
+            "../PropertyImages/prop6.webp"
+        ],
         "url": "prop10",
         "added": { "month": "January", "day": 5, "year": 2025 }
       },
@@ -172,7 +242,14 @@
         "longDescription": "A recently renovated four-bedroom home with a garden, garage, and pool. The house is located in a quiet residential area and is perfect for a family. It has a large living room, a dining room, and a modern kitchen.",
         "location": "Matara",
         "picture": "../PropertyImages/prop11.webp",
-        
+        "images": [
+            "../PropertyImages/prop7.webp",
+            "../PropertyImages/prop8.webp",
+            "../PropertyImages/prop9.webp",
+            "../PropertyImages/prop10.webp",
+            "../PropertyImages/prop11.webp",
+            "../PropertyImages/prop12.webp"
+        ],
         "url": "prop11",
         "added": { "month": "January", "day": 2, "year": 2025 }
       },
@@ -188,7 +265,14 @@
         "longDescription": "A retail space located in a busy shopping district, perfect for small businesses. The space has a large shop front and is suitable for a variety of retail businesses.",
         "location": "Matara",
         "picture": "../PropertyImages/prop12.webp",
-        
+        "images": [
+            "../PropertyImages/prop13.webp",
+            "../PropertyImages/prop14.webp",
+            "../PropertyImages/prop15.webp",
+            "../PropertyImages/prop16.webp",
+            "../PropertyImages/prop17.webp",
+            "../PropertyImages/prop18.webp"
+        ],
         "url": "prop12",
         "added": { "month": "January", "day": 1, "year": 2025 }
       },
@@ -204,7 +288,14 @@
         "longDescription": "A charming one-bedroom apartment located in a vibrant city center area. The apartment is on the top floor and has a balcony with city views. It is fully furnished and has a well-equipped kitchen.",
         "location": "Colombo 07",
         "picture": "../PropertyImages/prop13.webp",
-        
+        "images": [
+            "../PropertyImages/prop1.webp",
+            "../PropertyImages/prop2.webp",
+            "../PropertyImages/prop3.webp",
+            "../PropertyImages/prop4.webp",
+            "../PropertyImages/prop5.webp",
+            "../PropertyImages/prop6.webp"
+        ],
         "url": "prop13",
         "added": { "month": "January", "day": 5, "year": 2025 }
       },
@@ -220,7 +311,14 @@
         "longDescription": "A newly refurbished three-bedroom house with an open-plan living area. The house is located in a quiet residential area and has a large garden. It has a modern kitchen and bathrooms.",
         "location": "Moratuwa",
         "picture": "../PropertyImages/prop14.webp",
-        
+        "images": [
+            "../PropertyImages/prop7.webp",
+            "../PropertyImages/prop8.webp",
+            "../PropertyImages/prop9.webp",
+            "../PropertyImages/prop10.webp",
+            "../PropertyImages/prop11.webp",
+            "../PropertyImages/prop12.webp"
+        ],
         "url": "prop14",
         "added": { "month": "September", "day": 18, "year": 2025 }
       },
@@ -236,7 +334,14 @@
         "longDescription": "A beautiful large house with a large private garden and a garage. The house is located in a quiet residential area and is perfect for a family. It has a large living room, a dining room, and a modern kitchen.",
         "location": "Kottawa",
         "picture": "../PropertyImages/prop15.webp",
-        
+        "images": [
+            "../PropertyImages/prop13.webp",
+            "../PropertyImages/prop14.webp",
+            "../PropertyImages/prop15.webp",
+            "../PropertyImages/prop16.webp",
+            "../PropertyImages/prop17.webp",
+            "../PropertyImages/prop18.webp"
+        ],
         "url": "prop15",
         "added": { "month": "August", "day": 22, "year": 2025 }
       },
@@ -252,7 +357,14 @@
         "longDescription": "A modern two-bedroom apartment with ample living space in a prime location. The apartment is on the top floor and has a balcony with city views. It is fully furnished and has a well-equipped kitchen.",
         "location": "Colombo 03",
         "picture": "../PropertyImages/prop16.webp",
-        
+        "images": [
+            "../PropertyImages/prop1.webp",
+            "../PropertyImages/prop2.webp",
+            "../PropertyImages/prop3.webp",
+            "../PropertyImages/prop4.webp",
+            "../PropertyImages/prop5.webp",
+            "../PropertyImages/prop6.webp"
+        ],
         "url": "prop16",
         "added": { "month": "July", "day": 15, "year": 2025 }
       },
@@ -268,7 +380,14 @@
         "longDescription": "A modern two-bedroom house with ample living space in a prime location. The house is located in a quiet residential area and is perfect for a small family. It has a garden and a garage.",
         "location": "Kandy",
         "picture": "../PropertyImages/prop17.webp",
-        
+        "images": [
+            "../PropertyImages/prop7.webp",
+            "../PropertyImages/prop8.webp",
+            "../PropertyImages/prop9.webp",
+            "../PropertyImages/prop10.webp",
+            "../PropertyImages/prop11.webp",
+            "../PropertyImages/prop12.webp"
+        ],
         "url": "prop17",
         "added": { "month": "July", "day": 15, "year": 2025 }
       },
@@ -284,7 +403,14 @@
         "longDescription": "A modern four-bedroom house with ample living space in a prime location. The house is located in a quiet residential area and is perfect for a family. It has a large garden and a garage.",
         "location": "Colombo 05",
         "picture": "../PropertyImages/prop18.webp",
-        
+        "images": [
+            "../PropertyImages/prop13.webp",
+            "../PropertyImages/prop14.webp",
+            "../PropertyImages/prop15.webp",
+            "../PropertyImages/prop16.webp",
+            "../PropertyImages/prop17.webp",
+            "../PropertyImages/prop18.webp"
+        ],
         "url": "prop18",
         "added": { "month": "July", "day": 15, "year": 2025 }
       }
