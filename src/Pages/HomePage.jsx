@@ -7,7 +7,7 @@ import WatermarkImage from '../Assets/Aristiq logo.png';
 import FilterSection from '../Components/FilterSection';
 import SampleAds from '../Components/SampleAds';
 import Testimonials from '../Components/Testimonials';  // Update the import path as needed 
-import Landlord from '../Components/Landlord';
+import Landloard from '../Components/Landloard';
 import EndContent from '../Components/EndContent';
 
 
@@ -62,7 +62,7 @@ const HomePage = () => {
           <FilterSection /> {/* Add FilterSection here */}
           <SampleAds />
           <Testimonials /> {/* Add Testimonials here */}
-          <Landlord />
+          <Landloard />
           <EndContent />
          
           </div>
