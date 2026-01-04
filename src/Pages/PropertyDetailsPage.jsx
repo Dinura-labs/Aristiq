@@ -77,3 +77,73 @@ const PropertyDetailsPage = () => {
 };
 
 export default PropertyDetailsPage;
+
+const StyledWrapper = styled.div`
+  background-color: #f8f9fa;
+  min-height: 100vh;
+`;
+
+const BackButton = styled.button`
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  background-color: #3f3f3fff;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 20px;
+  font-size: 16px;
+  font-family: 'Afacad Flux';
+
+  &:hover {
+    background-color: #000000ff;
+  }
+`;
+
+const Container = styled.div`
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+`;
+
+const ImageMatarary = styled.div`
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+  margin-bottom: 30px;
+
+  img {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+  }
+`;
+
+const PropertyInfo = styled.div`
+  margin-bottom: 30px;
+  
+  h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    font-family: 'Afacad Flux';
+    margin-bottom: 10px;
+  }
+
+  .price {
+    font-size: 2rem;
+    font-weight: 600;
+    color: #D2691E;
+    font-family: 'Afacad Flux';
+    margin-bottom: 5px;
+  }
+
+  .location {
+    font-size: 1.5rem;
+    font-family: 'Afacad Flux';
+    color: #555;
+  }
+`;
